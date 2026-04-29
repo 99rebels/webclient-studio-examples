@@ -23,4 +23,4 @@ All company names, people, and data are fictional. Actual output will vary based
 
 ---
 
-**[WebClient Studio on Agensi](https://www.agensi.io/skills/webclient-studio)** · **[Source repo](https://github.com/99rebels/webclient-studio)**
+**[WebClient Studio on Agensi](https://www.agensi.io/skills/webclient-studio)**
